@@ -1,3 +1,8 @@
+
+console.log ( "Hello world!" ); //english
+console.log ( "درود بر جهان" ); //Persian
+console.log ( "مرحبا العالم" ); //Arabic
+console.log ( "I'm awesome" );
 let x;
 x=40;
 console.log("value of x is number 40");
