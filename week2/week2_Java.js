@@ -144,6 +144,6 @@ console.log(o2 === 03) ;   // false
 //So the order I assign  doesn't matter.        //16
 
 let bar = 42;
-console.log(typeof typeof bar);   // string    //typeof (typeof anything) is equivalent to typeof "somestring" which is, of course, "string"    in the other words typeof x returns a string representation of the type of x. So, naturally, typeof typeof x is string. --))
+console.log(typeof typeof bar);   // string    //Because typeof (typeof anything) is equivalent to typeof "somestring" which is, of course, "string"    in the other words typeof x returns a string representation of the type of x. So, naturally, typeof typeof x is string. --))
 //17
 	
